@@ -1,2 +1,5 @@
-# WISIWIG
-A parody on Adobe Dreamweaver
+Простой редактор HTML по принципу What I see is what I get.
+
+Написано на WinForms.
+
+Разметка сохраняется по пути D:\\index.html и загружается через встроенный браузер при каждом нажатии клавиши.
